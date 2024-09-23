@@ -1,5 +1,5 @@
 Arrays and Hashing
-	- Contains Duplicate
-	- Two Sum
-	- Valid Anagram
-	- Group Anagrams
+  - Contains Duplicate
+  - Two Sum
+  - Valid Anagram
+  - Group Anagrams
